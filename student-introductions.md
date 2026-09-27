@@ -21,7 +21,7 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Location:** São Paulo, SP
 - **Background:** Computer Science student learning git workflow
 - **Learning Goals:** Master git workflow and collaborative development
-- **Fun Fact:** I like games :D
+- **Fun Fact:** I like games
 - **Date Added:** September 27, 2026
 
 
